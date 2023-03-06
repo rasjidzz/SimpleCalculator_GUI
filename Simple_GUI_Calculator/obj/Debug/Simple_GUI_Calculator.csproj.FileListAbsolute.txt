@@ -1,0 +1,11 @@
+C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL 3\Simple_GUI_Calculator\bin\Debug\Simple_GUI_Calculator.exe.config
+C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL 3\Simple_GUI_Calculator\bin\Debug\Simple_GUI_Calculator.exe
+C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL 3\Simple_GUI_Calculator\bin\Debug\Simple_GUI_Calculator.pdb
+C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL 3\Simple_GUI_Calculator\obj\Debug\Simple_GUI_Calculator.csproj.AssemblyReference.cache
+C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL 3\Simple_GUI_Calculator\obj\Debug\Simple_GUI_Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL 3\Simple_GUI_Calculator\obj\Debug\Simple_GUI_Calculator.Form1.resources
+C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL 3\Simple_GUI_Calculator\obj\Debug\Simple_GUI_Calculator.Properties.Resources.resources
+C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL 3\Simple_GUI_Calculator\obj\Debug\Simple_GUI_Calculator.csproj.GenerateResource.cache
+C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL 3\Simple_GUI_Calculator\obj\Debug\Simple_GUI_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL 3\Simple_GUI_Calculator\obj\Debug\Simple_GUI_Calculator.exe
+C:\Users\mrisj\Documents\TELKOM\Telkom University\Semester 4\Praktikum KPL\MODUL 3\Simple_GUI_Calculator\obj\Debug\Simple_GUI_Calculator.pdb
